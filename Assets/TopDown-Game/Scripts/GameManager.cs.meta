@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90f35d65d03723d4781471d39cb3f2e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuCamera: {instanceID: 0}
+  - overlayCanvas: {instanceID: 0}
+  - spotlightPrefab: {fileID: 2922737426441626750, guid: 2d7a58492f0ef3040b2f55665c7dbbc6,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
